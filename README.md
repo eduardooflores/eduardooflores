@@ -14,7 +14,7 @@ Desenvolvedor de sistemas focado em backend, com experiência na construção de
 
 - 🚀 **Desenvolvedor de Sistemas (Backend)** — atuando com Java, Spring Boot, Python e integração de LLMs (GPT-4o Mini, Whisper) para automação de processos em CRM.
 - 🏛️ **Estagiário Fullstack — Procergs** — desenvolvimento de serviços digitais para o cidadão com Angular e APIs REST.
-- 🎓 Graduado **Tecnólogo em Análise e Desenvolvimento de Sistemas** na Uninter.
+- 🎓 Cursando **Tecnólogo em Análise e Desenvolvimento de Sistemas** na Uninter.
 
 <br>
 
@@ -32,19 +32,6 @@ Desenvolvedor de sistemas focado em backend, com experiência na construção de
 
 <br>
 
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=eduardooflores&show_icons=true&theme=default&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardooflores&layout=compact&hide_border=true&theme=default" />
-
-<br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=eduardooflores&hide_border=true&theme=default" />
-
-</div>
-
 <br>
 
 ## 📫 Contato
@@ -61,7 +48,3 @@ Desenvolvedor de sistemas focado em backend, com experiência na construção de
 </div>
 
 <br>
-
-<div align="center">
-<sub>Feito com foco em backend, escalabilidade e boas práticas de engenharia de software.</sub>
-</div>
